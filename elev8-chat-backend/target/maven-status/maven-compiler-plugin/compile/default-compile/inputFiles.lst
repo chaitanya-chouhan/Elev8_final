@@ -1,4 +1,7 @@
-C:\Users\soham\OneDrive\Desktop\elev8\Elev8_final\elev8-chat-backend\src\main\java\com\elev8\chat\repository\MessageRepository.java
-C:\Users\soham\OneDrive\Desktop\elev8\Elev8_final\elev8-chat-backend\src\main\java\com\elev8\chat\model\Message.java
-C:\Users\soham\OneDrive\Desktop\elev8\Elev8_final\elev8-chat-backend\src\main\java\com\elev8\chat\controller\MessageController.java
-C:\Users\soham\OneDrive\Desktop\elev8\Elev8_final\elev8-chat-backend\src\main\java\com\elev8\chat\Elev8ChatApplication.java
+/Users/parthbadgire/Elev8_final/elev8-chat-backend/src/main/java/com/elev8/chat/controller/UserController.java
+/Users/parthbadgire/Elev8_final/elev8-chat-backend/src/main/java/com/elev8/chat/controller/MessageController.java
+/Users/parthbadgire/Elev8_final/elev8-chat-backend/src/main/java/com/elev8/chat/repository/UserRepository.java
+/Users/parthbadgire/Elev8_final/elev8-chat-backend/src/main/java/com/elev8/chat/repository/MessageRepository.java
+/Users/parthbadgire/Elev8_final/elev8-chat-backend/src/main/java/com/elev8/chat/Elev8ChatApplication.java
+/Users/parthbadgire/Elev8_final/elev8-chat-backend/src/main/java/com/elev8/chat/model/Message.java
+/Users/parthbadgire/Elev8_final/elev8-chat-backend/src/main/java/com/elev8/chat/model/User.java
