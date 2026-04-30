@@ -1,0 +1,4 @@
+com\elev8\chat\repository\MessageRepository.class
+com\elev8\chat\controller\MessageController.class
+com\elev8\chat\Elev8ChatApplication.class
+com\elev8\chat\model\Message.class
