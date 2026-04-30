@@ -9,6 +9,7 @@ import Yoga from './pages/Yoga.jsx'
 import Weight from './pages/Weight.jsx'
 import Calisthenics from './pages/Calisthenics.jsx'
 import Circadian from './pages/Circadian.jsx'
+import Chat from './pages/Chat.jsx'
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
         <Route path="/weight" element={<Weight />} />
         <Route path="/calisthenics" element={<Calisthenics />} />
         <Route path="/circadian" element={<Circadian />} />
+        <Route path="/chat" element={<Chat />} />
       </Routes>
     </BrowserRouter>
   )

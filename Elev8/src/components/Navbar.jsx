@@ -27,6 +27,11 @@ export default function Navbar() {
                 <Link className={`nav-link ${isActive('/store') ? 'active' : ''}`} to="/store">Store</Link>
               </li>
               <li className="nav-item">
+                <Link className={`nav-link ${isActive('/chat') ? 'active' : ''}`} to="/chat">
+                  <i className="fas fa-comments me-1"></i>Community Chat
+                </Link>
+              </li>
+              <li className="nav-item">
                 <a className="nav-link" href="#contact">Contact Us</a>
               </li>
             </ul>
